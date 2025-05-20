@@ -6,4 +6,4 @@ Treat this as a closure to the mod for B41. I'm not sure if his friend will cont
 
 ## Features
 
-- None so far.
+- Add Packs, Cases and Crates for the new ammunition introduced by the mod.
