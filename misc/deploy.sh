@@ -30,4 +30,7 @@ for file in LICENSE mod.info poster.png; do
     fi
 done
 
+find ../../Workshop/VFES_UnofficialB41Finish/ -name '.DS_Store' -type f -delete
+find ../../Workshop/VFES_UnofficialB41Finish/ -name '._*' -type f -delete
+
 echo "Deployment completed successfully!"

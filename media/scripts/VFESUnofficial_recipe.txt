@@ -1,0 +1,50 @@
+module Base
+{
+    recipe Pack 5.45 Boxes
+    {
+        545Box=4,
+
+        Result:545Pack,
+        Time:50.0,
+    }
+
+    recipe Open Pack of 5.45 Ammo
+    {
+        545Pack,
+
+        Result:545Box=4,
+        Time:50.0,
+    }
+
+    recipe Case 5.45 Packs
+    {
+        545Pack=4,
+
+        Result:545Case,
+        Time:50.0,
+    }
+
+    recipe Open Case of 5.45 Ammo
+    {
+        545Case,
+
+        Result:545Pack=4,
+        Time:50.0,
+    }
+
+    recipe Crate 5.45 Cases
+    {
+        545Case=4,
+
+        Result:545Crate,
+        Time:50.0,
+    }
+
+    recipe Open Crate of 5.45 Boxes
+    {
+        545Crate,
+
+        Result:545Case=4,
+        Time:50.0,
+    }
+}

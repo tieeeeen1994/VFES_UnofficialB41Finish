@@ -1,0 +1,38 @@
+module Base
+{
+    item 545Pack
+    {
+        Weight	=	3,
+        AlwaysWelcomeGift	=	TRUE,
+        Type	=	Normal,
+        DisplayName	=	Pack of 5.45 Boxes,
+        DisplayCategory = Ammo,
+        Icon	=	762AmmoPack,
+        MetalValue = 160,
+        WorldStaticModel = 762Pack,
+    }
+
+    item 545Case
+    {
+        Weight	=	11.8,
+        AlwaysWelcomeGift	=	TRUE,
+        Type	=	Normal,
+        DisplayName	=	Case of 5.45 Boxes,
+        DisplayCategory = Ammo,
+        Icon	=	762AmmoCase,
+        MetalValue = 640,
+        WorldStaticModel = 762Case,
+    }
+
+    item 545Crate
+    {
+        Weight	=	40,
+        AlwaysWelcomeGift	=	TRUE,
+        Type	=	Normal,
+        DisplayName	=	Crate of 5.45 Boxes,
+        DisplayCategory = Ammo,
+        Icon	=	762AmmoCrate,
+        MetalValue = 2560,
+        WorldStaticModel = 762Crate,
+    }
+}
