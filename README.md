@@ -11,4 +11,5 @@ There is an existing mod called "VFE STALKER PACK Complete", but it adds stuff s
 - Add Packs, Cases and Crates for the new ammunition introduced by the mod.
 - Modified loot tables so that Packs, Cases and Crates for ammo introduced by the mod spawn in the world.
 - Added VSS shooting sound using the same sound as MP5SD.
-- Modify loot table so that it matches the original VFE. Every gun from "VFE - S.T.A.L.K.E.R Pack" should be able to spawn in the world now.
+- Modify loot table so that every gun from "VFE - S.T.A.L.K.E.R Pack" should be able to spawn in the world now.
+- Loot tables should be a little bit custom and focused on being lore accurate. The pattern from the "VFE - S.T.A.L.K.E.R Pack" seems to be aligned to being lore accurate, but I believe some entries were mistakes in the original.
