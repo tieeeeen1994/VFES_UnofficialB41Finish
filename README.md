@@ -13,3 +13,4 @@ There is an existing mod called "VFE STALKER PACK Complete", but it adds stuff s
 - Added VSS shooting sound using the same sound as MP5SD.
 - Modify loot table so that every gun from "VFE - S.T.A.L.K.E.R Pack" should be able to spawn in the world now.
 - Loot tables should be a little bit custom and focused on being lore accurate. The pattern from the "VFE - S.T.A.L.K.E.R Pack" seems to be aligned to being lore accurate, but I believe some entries were mistakes in the original.
+- Fix Bizon's Max Ammo to be 64 instead of 30.
